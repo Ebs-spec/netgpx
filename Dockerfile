@@ -1,6 +1,6 @@
 FROM alpine:3.8
 
-LABEL maintainer="Eben Van Rooyen (https://github.com/Ebs-spec)"
+LABEL maintainer="Ebs-spec (https://github.com/Ebs-spec)"
 
 ARG DB_ROOT_PASS=secret1
 ARG DB_USER_PASS=secret2
